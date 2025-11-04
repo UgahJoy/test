@@ -39,11 +39,7 @@ class _LineChartSmaple2 extends State<LineChartSample2>
     FlSpot(66, 7),
     FlSpot(70, 9),
   ];
-  // double paddingAmount = 0.3;
-  // late List<FlSpot> paddedSpots;
-  // paddedSpots = spots.map((e) {
-  //   return FlSpot(e.x + paddingAmount, e.y );
-  // }).toList();
+
   @override
   void initState() {
     super.initState();
